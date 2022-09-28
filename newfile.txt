@@ -1,1 +1,2 @@
 this a new file line1
+ade new line2
